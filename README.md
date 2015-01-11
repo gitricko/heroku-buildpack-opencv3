@@ -1,3 +1,3 @@
-# Heroku buildpack with Python and OpenCV
+# Heroku buildpack with OpenCV 3.0
 
-Initially forked from: https://github.com/diogojc/heroku-buildpack-python-opencv-scipy
+
