@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # SBL takes in BUILD_DIR CACHE_DIR ENV_DIR
 
