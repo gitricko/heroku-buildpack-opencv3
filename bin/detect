@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # takes BUILD_DIR as a single argument
+echo "-----> Fred is here"
 echo "OpenCV 3.0"
 # SBL exit 0 indicates that the buildback should be used, signifying no need for inference
 exit 0
